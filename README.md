@@ -1,0 +1,1 @@
+This is a project from the Odin Project to allow me to practice both my HTML as well as my ability to work with Git.
