@@ -18,3 +18,18 @@ li {
     font-weight:100;
     color: lightgray;
 }
+
+ul{
+    display:inline-block;
+    border:1px solid white;
+    padding:20px;
+    background-color: darkred;
+}
+
+p {
+    display:block;
+    background-color: darkred;
+    border: 2px solid white;
+    padding: 5px;
+    font-style: italic;
+}
